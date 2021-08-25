@@ -10,6 +10,7 @@ public class JedisSpringbootTestApplication {
         SpringApplication.run(JedisSpringbootTestApplication.class, args);
         System.out.println("hello Git ");
         System.out.println("hello Git2");
+        System.out.println("hello Git3 hot-fix");
     }
 
 
