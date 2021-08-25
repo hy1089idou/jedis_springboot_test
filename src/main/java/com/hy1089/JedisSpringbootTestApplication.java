@@ -12,6 +12,7 @@ public class JedisSpringbootTestApplication {
         System.out.println("hello Git2");
         System.out.println("hello Git3 hot-fix");
         System.out.println("test Git3 master");
+        System.out.println("test Git3 hot-fix");
     }
 
 
